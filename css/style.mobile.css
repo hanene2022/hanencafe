@@ -1,0 +1,64 @@
+/* header */
+
+.header nav h1{
+    float:none;
+text-align:center;
+}
+
+.header nav ul{
+    float:none;
+  
+}
+.header nav ul li{float: none;}
+.header nav ul li a{
+padding:10px;
+text-align:center;}
+
+/* vp  */
+
+.vp-content{
+   
+    padding-top: 50px;
+  
+}
+
+.vp-content h1{
+    font-size: 50px;
+   
+}
+/* features */
+.feature{
+
+    float:none;
+    width: 100%;
+    margin-botton:2rem;
+}
+
+/* where */
+.where{
+    padding:80px 20px 50px 20px;
+overflow: auto;
+min-height:100vh ;
+}
+.whereImage{
+    float:none;
+  border:0px ;;
+ margin-bottom:3rem;
+ border-raduis:5px;  
+width:80%;
+display:block;
+margin:auto;
+
+}
+.where-test{
+    float:none ; 
+    width: 100%;
+    text-align :center;
+  }
+  
+  /* contact */
+.contact{
+    paddind:50px 0px 0px 0px;
+    min-height:100vh;
+}
+
